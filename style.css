@@ -1,3 +1,14 @@
+#EGEA{
+
+    .window {
+  border: 6px solid transparent;
+  border-radius: 10px;
+  background: #fff;
+  padding: 16px;
+
+  border-image: linear-gradient(45deg, #ff0066, #ffcc00, #33cc99, #0066ff) 1;
+}
+}
 
 
 @import url('https://fonts.googleapis.com/css2?family=Gochi+Hand&display=swap');
